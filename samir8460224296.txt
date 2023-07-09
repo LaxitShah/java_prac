@@ -1,0 +1,8 @@
+Time Cinema
+Invoice of Movie Ticket
+Name : samir
+Contact: 8460224296
+Movie :Pink
+Price per Ticket: 150
+Tickets booked: 20
+Total amount to be paid is 3000

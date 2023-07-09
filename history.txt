@@ -1,0 +1,6 @@
+
+Movie Name:Raazi
+No.of seats booked:20
+Total price:6000
+Timings:3 P.M. to 6 P.M.
+Thank you for visiting

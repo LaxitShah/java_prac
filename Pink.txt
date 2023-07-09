@@ -1,0 +1,5 @@
+Movie.1 -- Pink
+Show Timings 9:00 to 11:00 AM
+Total Seats     = 300
+Booked Seats    = 21
+Available Seats = 279

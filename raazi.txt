@@ -1,0 +1,5 @@
+
+Total Seats:25
+No. of seats booked:20
+No. of seats remaining:5
+Price:300
